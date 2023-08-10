@@ -1,0 +1,23 @@
+[
+    {
+        "name": "<span style='color:#EEEE9B'>[First Thorn]</span> Jue Viole Grace",
+        "title": "The FUG god",
+        "image": "/images/14.png",
+        "rarity": "/images/rarity/ssrplus.png",
+        "element": "/images/elements/yellow.png",
+        "class": "/images/classes/ranged.png",
+        "type": "/images/types/magic.png",
+        "history": ""
+    },
+
+    {
+        "name": "<span style='color:#93CAED'>[Data]</span> Khun Mascheny",
+        "title": "The Harbringer of War",
+        "image": "/images/16.png",
+        "rarity": "/images/rarity/ssrplus.png",
+        "element": "/images/elements/blue.png",
+        "class": "/images/classes/assassin.png",
+        "type": "/images/types/magic.png",
+        "history": "The data of Khun Mascheny Zahard, which was copied to the hidden floor when she climbed the Tower. She is one of the children which Khun Edahn's data is fond of.<br><br>"
+    }
+]
